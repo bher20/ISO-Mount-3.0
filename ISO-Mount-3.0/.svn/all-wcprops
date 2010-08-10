@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/ISOMount3/!svn/ver/1/trunk
+END
+info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ISOMount3/!svn/ver/4/trunk/info.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ISOMount3/!svn/ver/3/trunk/license.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ISOMount3/!svn/ver/2/trunk/.project
+END
+JsmoothLicense.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ISOMount3/!svn/ver/4/trunk/JsmoothLicense.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ISOMount3/!svn/ver/2/trunk/.classpath
+END
